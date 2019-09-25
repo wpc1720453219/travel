@@ -3,8 +3,8 @@
 ## 1.技术选型
 	1. Web层
 	    a)   	Servlet：前端控制器
-	    b)		html：视图
-	    c)		Filter：过滤器
+	    b)   	html：视图
+	    c)		Filter：过滤器   
 	    d)   	BeanUtils：数据封装
 	    e)   	Jackson：json序列化工具
 	2. Service层
