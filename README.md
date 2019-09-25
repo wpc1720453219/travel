@@ -8,13 +8,13 @@
 	    d)   	BeanUtils：数据封装
 	    e)   	Jackson：json序列化工具
 	2. Service层
-		f)		Javamail：java发送邮件工具
-        g)		Redis：nosql内存数据库
-        h)		Jedis：java的redis客户端
+	    f)		Javamail：java发送邮件工具
+            g)		Redis：nosql内存数据库
+            h)		Jedis：java的redis客户端
 	3. Dao层
-		i)		Mysql：数据库
-		j)		Druid：数据库连接池
-		k)		JdbcTemplate：jdbc的工具
+	    i)		Mysql：数据库
+	    j)		Druid：数据库连接池
+	    k)		JdbcTemplate：jdbc的工具
 
 ## 2.项目介绍
        1.前后端分离，前端用html显示，运用JS进行数据校验，运用 Ajax，
